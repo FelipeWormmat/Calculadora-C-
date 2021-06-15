@@ -1,0 +1,9 @@
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\bin\Debug\calculadora.exe
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.pdb
